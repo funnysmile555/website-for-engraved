@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <title>Team Eight</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h2 {color:blueviolet}
+    header,
+    main,
+    footer {
+      margin: 10px;
+      padding: 10px;
+      border: 1px solid#ddd;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Hello!</h1>
+  </header>
+  <main>
+    <h2>Welcome to Team Eight</h2>
+    <p>Here you can use Team Eight's software program for your event .</p>
+</main>
+  <footer>
+    <p>&copy; 2023 Team Eight. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
